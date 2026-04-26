@@ -1,4 +1,4 @@
-O **AWS Compute Optimizer** é um serviço que ajuda a otimizar o uso de recursos de computação na AWS, como instâncias EC2, volumes EBS, grupos de Auto Scaling e funções do Lambda. Ele analisa métricas de utilização, desempenho e recomenda configurações ideais, ajudando a reduzir custos e melhorar a eficiência sem prejudicar o desempenho.
+O **AWS Compute Optimizer** é um serviço que ajuda a otimizar o uso de recursos de computação na AWS, como instâncias [[AWS EC2|EC2]], volumes EBS, grupos de [[Guia AWS - Conceitos de Escalabilidade, Elasticidade, Disponibilidade, Auto Scaling, ELB e ALB|Auto Scaling]] e funções de [[AWS Lambda|Lambda]]. Ele analisa métricas de utilização, desempenho e recomenda configurações ideais, ajudando a reduzir custos e melhorar a eficiência sem prejudicar o desempenho.
 
 ### Principais Funcionalidades do AWS Compute Optimizer
 

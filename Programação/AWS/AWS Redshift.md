@@ -1,4 +1,4 @@
-**Amazon Redshift** é um serviço de data warehouse totalmente gerenciado pela AWS, projetado para realizar consultas e análises de grandes volumes de dados com alta performance. Ele permite que empresas e organizações consolidem dados de várias fontes, realizem análises complexas e obtenham insights em tempo real, facilitando a tomada de decisões baseadas em dados.
+**Amazon Redshift** é um serviço de data warehouse totalmente gerenciado pela AWS, projetado para realizar consultas e análises de grandes volumes de dados com alta performance, muitas vezes alimentado de **[[Guia AWS - Amazon S3 (Simple Storage Service)|S3]]** (unload/copy) e consumido no **[[AWS QuickSight|QuickSight]]**; também entra no panorama de **[[Guia AWS - Bancos de Dados na AWS|Bancos de Dados na AWS]]**. Ele permite que empresas e organizações consolidem dados de várias fontes, realizem análises complexas e obtenham insights em tempo real, facilitando a tomada de decisões baseadas em dados.
 
 ### Principais Funcionalidades do Amazon Redshift
 

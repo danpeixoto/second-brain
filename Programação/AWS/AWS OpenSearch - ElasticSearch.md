@@ -1,4 +1,4 @@
-O **Amazon OpenSearch Service** (anteriormente conhecido como Amazon Elasticsearch Service) é um serviço gerenciado que facilita a implementação, operação e escalabilidade de clusters de busca e análise em tempo real com base na tecnologia OpenSearch, uma distribuição de código aberto do Elasticsearch. Ele permite que os desenvolvedores e as empresas pesquisem, analisem e visualizem grandes volumes de dados rapidamente.
+O **Amazon OpenSearch Service** (anteriormente conhecido como Amazon Elasticsearch Service) é um serviço gerenciado que facilita a implementação, operação e escalabilidade de clusters de busca e análise em tempo real com base na tecnologia OpenSearch, uma distribuição de código aberto do Elasticsearch. Ingestão comum inclui **[[AWS Kinesis|Kinesis]]** (por exemplo, Firehose) e dados de referência no **[[Guia AWS - Amazon S3 (Simple Storage Service)|S3]]**; a API legada de busca gerenciada antiga lembra a **[[AWS CloudSearch|CloudSearch]]** (avaliar qual serviço atende o caso).
 
 ### Principais Funcionalidades do Amazon OpenSearch Service
 

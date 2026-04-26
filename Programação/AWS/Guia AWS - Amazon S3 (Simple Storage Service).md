@@ -2,7 +2,7 @@
 
 ## 1. O que é o Amazon S3?
 
-Amazon S3 (Simple Storage Service) é um serviço de armazenamento de objetos altamente escalável, durável e seguro da AWS. Ele permite que você armazene e recupere qualquer quantidade de dados a qualquer momento, de qualquer lugar na web. É amplamente usado para armazenar arquivos, backups, dados de aplicação e outros conteúdos.
+Amazon S3 (Simple Storage Service) é um serviço de armazenamento de objetos altamente escalável, durável e seguro da AWS. Ele permite que você armazene e recupere qualquer quantidade de dados a qualquer momento, de qualquer lugar na web. É amplamente usado para armazenar arquivos, backups, dados de aplicação e outros conteúdos, muito acionado por **[[AWS Lambda|Lambda]]** e padrões de analytics com **[[AWS Athena|Athena]]** e **[[AWS Glue|Glue]]** no *data lake* em **S3** (o próprio tópico desta nota).
 
 ### Características principais:
 - **Escalabilidade:** O S3 é altamente escalável, permitindo armazenar de megabytes a petabytes de dados.

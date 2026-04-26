@@ -1,7 +1,7 @@
 
 ## O que é o Route 53?
 
-- **Amazon Route 53** é um serviço de **Domain Name System (DNS)** da AWS que facilita a resolução de nomes de domínio para endereços IP. Ele ajuda a conectar solicitações de usuários à infraestrutura executada na AWS, como instâncias EC2, buckets do S3 ou até mesmo servidores fora da AWS.
+- **Amazon Route 53** é um serviço de **Domain Name System (DNS)** da AWS que facilita a resolução de nomes de domínio para endereços IP. Ele ajuda a conectar solicitações de usuários à infraestrutura executada na AWS, como instâncias **[[AWS EC2|EC2]]**, *endpoints* de *bucket* no **[[Guia AWS - Amazon S3 (Simple Storage Service)|S3]]** (site estático) ou até mesmo servidores fora da AWS, tudo isso orquestrado a partir de **[[Guia AWS - Redes na AWS|rede (VPC)]]** na conta.
 
 ## Funcionalidades Principais
 

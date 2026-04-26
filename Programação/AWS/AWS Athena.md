@@ -1,4 +1,4 @@
-O **AWS Athena** é um serviço de consulta interativo da AWS que permite executar queries SQL diretamente em dados armazenados no Amazon S3, sem a necessidade de configurar um servidor. Ele é especialmente útil para análises ad hoc, permitindo obter insights de dados de maneira rápida e econômica.
+O **AWS Athena** é um serviço de consulta interativo da AWS que permite executar queries SQL diretamente em dados armazenados no [[Guia AWS - Amazon S3 (Simple Storage Service)|S3]], sem a necessidade de configurar um servidor. Ele é especialmente útil para análises ad hoc, permitindo obter insights de dados de maneira rápida e econômica.
 
 ### Principais Funcionalidades do AWS Athena
 
@@ -12,7 +12,7 @@ O **AWS Athena** é um serviço de consulta interativo da AWS que permite execut
    - O Athena suporta vários formatos de dados, como CSV, JSON, Parquet, ORC e Avro. Isso permite que você trabalhe com dados em diferentes formatos e aproveite as vantagens de formatos otimizados para compressão e desempenho, como Parquet e ORC.
 
 4. **Integração com o Glue Data Catalog**:
-   - O AWS Athena integra-se com o AWS Glue Data Catalog para facilitar o gerenciamento e a descoberta de metadados. Isso significa que você pode usar tabelas e esquemas definidos no Glue para consultas no Athena, tornando a organização de dados mais eficiente.
+   - O AWS Athena integra-se com o [[AWS Glue|AWS Glue Data Catalog]] para facilitar o gerenciamento e a descoberta de metadados. Isso significa que você pode usar tabelas e esquemas definidos no Glue para consultas no Athena, tornando a organização de dados mais eficiente.
 
 5. **Processamento Serverless e Escalável**:
    - O Athena é totalmente serverless, ou seja, não há necessidade de gerenciar infraestrutura. Ele escala automaticamente para lidar com consultas de qualquer tamanho, permitindo consultas rápidas mesmo em grandes volumes de dados.

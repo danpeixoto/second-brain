@@ -1,4 +1,4 @@
-**AWS SNS** é um serviço de mensagens de publicação/assinatura (pub/sub) que permite enviar notificações para múltiplos assinantes.
+**AWS SNS** é um serviço de mensagens de publicação/assinatura (pub/sub) que permite enviar notificações para múltiplos assinantes, muitas vezes em padrão *fan-out* com **[[AWS SQS|SQS]]** e consumo por **[[AWS Lambda|Lambda]]**; compare padrões em **[[Diferença entre SQS e SNS|SQS vs SNS]]**.
 
 - **Características principais**:
   - Totalmente gerenciado e escalável.

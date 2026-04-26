@@ -1,6 +1,6 @@
 ## O que é o AWS Glue?
 
-O AWS Glue é um serviço serverless (sem servidor) que facilita o processo de ETL, automatizando a descoberta de dados e gerando o código necessário para preparar e transformar os dados. Ele permite que usuários centralizem e transformem dados de diferentes fontes para torná-los prontos para análise e visualização em ferramentas de BI (Business Intelligence).
+O AWS Glue é um serviço serverless (sem servidor) que facilita o processo de ETL, automatizando a descoberta de dados e gerando o código necessário para preparar e transformar os dados, em catálogos muito usados por **[[AWS Athena|Athena]]** e dados em **[[Guia AWS - Amazon S3 (Simple Storage Service)|S3]]**. Ele permite que usuários centralizem e transformem dados de diferentes fontes para torná-los prontos para análise e visualização em ferramentas de BI (Business Intelligence).
 
 ## Componentes principais
 

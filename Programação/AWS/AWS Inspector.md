@@ -1,4 +1,4 @@
-O **AWS Inspector** é um serviço de segurança que automatiza a avaliação de segurança de aplicações implantadas em ambientes AWS. Ele ajuda a identificar vulnerabilidades e a melhorar a segurança de suas instâncias do Amazon EC2 e outros serviços da AWS, fornecendo recomendações para mitigar riscos.
+O **AWS Inspector** é um serviço de segurança que automatiza a avaliação de segurança de aplicações implantadas em ambientes AWS. Ele ajuda a identificar vulnerabilidades e a melhorar a segurança de suas instâncias do **[[AWS EC2|Amazon EC2]]** e outros serviços da AWS, fornecendo recomendações para mitigar riscos (complementa visões de postura de **[[AWS Security Hub|Security Hub]]**).
 
 ### Principais Funcionalidades do AWS Inspector
 

@@ -1,6 +1,6 @@
 ## O que é o AWS DataSync?
 
-O **AWS DataSync** é um serviço de transferência de dados em alta velocidade que automatiza a movimentação de dados entre sistemas de armazenamento locais e a AWS ou entre diferentes serviços de armazenamento da AWS. Ele simplifica e acelera a sincronização e migração de dados, permitindo operações de backup, arquivamento e migração de forma mais prática.
+O **AWS DataSync** é um serviço de transferência de dados em alta velocidade que automatiza a movimentação de dados entre sistemas de armazenamento locais e a AWS ou entre diferentes serviços de armazenamento da AWS, frequentemente alinhado ao **[[Guia AWS - Amazon S3 (Simple Storage Service)|S3]]** e a cenários híbridos com [[AWS Storage Gateway|Storage Gateway]]. Ele simplifica e acelera a sincronização e migração de dados, permitindo operações de backup, arquivamento e migração de forma mais prática.
 
 ## Principais Funcionalidades
 

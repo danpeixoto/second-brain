@@ -1,5 +1,5 @@
 
-AWS Artifact é um serviço que fornece acesso sob demanda a relatórios de auditoria e documentos de conformidade da AWS. Ele é usado principalmente para ajudar as organizações a cumprir requisitos regulatórios e de conformidade ao utilizar os serviços da AWS.
+AWS Artifact é um serviço que fornece acesso sob demanda a relatórios de auditoria e documentos de conformidade da AWS. Complementa o uso do [[AWS Well-Architected Framework|Well-Architected Framework]] e de controles de segurança em serviços como [[AWS Security Hub|Security Hub]]. Ele é usado principalmente para ajudar as organizações a cumprir requisitos regulatórios e de conformidade ao utilizar os serviços da AWS.
 
 ## Características principais
 - **Acesso a relatórios de conformidade**: Permite o download de diversos relatórios de conformidade, como ISO, SOC, PCI DSS e muitos outros, que demonstram os padrões de segurança que a AWS atende.

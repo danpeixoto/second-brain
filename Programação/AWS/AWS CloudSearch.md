@@ -1,4 +1,4 @@
-**AWS CloudSearch** é um serviço gerenciado de busca e indexação da AWS que facilita a adição de recursos de pesquisa a aplicativos e sites. Ele permite configurar e gerenciar um mecanismo de busca de forma escalável e de alto desempenho, sem a complexidade de configurar servidores e infraestrutura manualmente.
+**AWS CloudSearch** é um serviço gerenciado de busca e indexação da AWS que facilita a adição de recursos de pesquisa a aplicativos e sites. Para cenários de busca e análise mais atuais, a AWS reforça o **[[AWS OpenSearch - ElasticSearch|OpenSearch Service]]**; vale comparar requisitos ao planejar a solução. Ele permite configurar e gerenciar um mecanismo de busca de forma escalável e de alto desempenho, sem a complexidade de configurar servidores e infraestrutura manualmente.
 
 ### Principais Recursos do AWS CloudSearch
 

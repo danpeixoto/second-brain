@@ -4,8 +4,8 @@
 
 Escalabilidade refere-se à capacidade de um sistema aumentar ou diminuir recursos de acordo com a demanda. Existem dois tipos principais:
 
-- **Escalabilidade vertical (Scale Up):** Aumenta a capacidade de um único recurso, como adicionar mais memória ou CPU a uma instância EC2.
-- **Escalabilidade horizontal (Scale Out):** Adiciona mais instâncias de recursos, como distribuir a carga entre várias instâncias EC2.
+- **Escalabilidade vertical (Scale Up):** Aumenta a capacidade de um único recurso, como adicionar mais memória ou CPU a uma instância **[[AWS EC2|EC2]]**.
+- **Escalabilidade horizontal (Scale Out):** Adiciona mais instâncias de recursos, como distribuir a carga entre várias instâncias **[[AWS EC2|EC2]]** atrás de *load balancers* expostos na **[[Guia AWS - Redes na AWS|VPC]]** (ALB/NLB) e, quando a carga muda, **[[Guia AWS - Amazon S3 (Simple Storage Service)|S3]]** e filas/mensageria (por exemplo **[[AWS SQS|SQS]]**) desacoplam picos.
 
 ### Benefícios:
 - Capacidade de lidar com crescimento repentino de tráfego sem impacto na performance.

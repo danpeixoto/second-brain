@@ -1,4 +1,4 @@
-O AWS Control Tower é um serviço que ajuda a configurar e governar um ambiente multi-conta seguro e bem arquitetado na AWS. Ele oferece uma maneira fácil e automatizada de configurar uma "landing zone" com práticas recomendadas, permitindo que você crie uma estrutura de contas AWS com políticas de governança, permissões e segurança.
+O AWS Control Tower é um serviço que ajuda a configurar e governar um ambiente multi-conta seguro e bem arquitetado na AWS, muitas vezes em conjunto com catálogos e padronização via [[AWS Service Catalog|Service Catalog]] e o [[AWS Well-Architected Framework|Well-Architected Framework]]. Ele oferece uma maneira fácil e automatizada de configurar uma "landing zone" com práticas recomendadas, permitindo que você crie uma estrutura de contas AWS com políticas de governança, permissões e segurança.
 
 ## Principais características
 - Configuração de uma landing zone pronta para produção.

@@ -1,6 +1,6 @@
 ## O que é o AWS Security Hub?
 
-O **AWS Security Hub** é um serviço que centraliza e simplifica a visualização e o gerenciamento da segurança na AWS. Ele agrupa descobertas de segurança de serviços nativos da AWS (como GuardDuty, Macie e Inspector) e de soluções de segurança de terceiros, permitindo uma visão consolidada do estado de segurança dos recursos. Além disso, o Security Hub oferece padrões de conformidade com benchmarks como o CIS AWS Foundations Benchmark e o PCI DSS, que ajudam a verificar e melhorar a segurança da infraestrutura.
+O **AWS Security Hub** é um serviço que centraliza e simplifica a visualização e o gerenciamento da segurança na AWS. Ele agrupa descobertas de serviços nativos como **[[AWS GuardDuty|GuardDuty]]**, **[[AWS Macie|Macie]]** e **[[AWS Inspector|Inspector]]** (e de terceiros), permitindo uma visão consolidada; eventos e auditoria de API seguem vindo de **[[AWS CloudTrail|CloudTrail]]**. Além disso, o Security Hub oferece padrões de conformidade com benchmarks como o CIS AWS Foundations Benchmark e o PCI DSS, que ajudam a verificar e melhorar a segurança da infraestrutura.
 
 ## Principais Funcionalidades
 

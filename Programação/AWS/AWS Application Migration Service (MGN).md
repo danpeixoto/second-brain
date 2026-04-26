@@ -1,6 +1,6 @@
 ## O que é o AWS Application Migration Service?
 
-O AWS Application Migration Service (AWS MGN) é um serviço gerenciado que facilita a migração de servidores, aplicativos e bases de dados para a AWS. Ele permite realizar migrações "lift-and-shift" (migrar o ambiente como está) ao replicar continuamente dados dos servidores de origem para a AWS, minimizando o tempo de inatividade e garantindo que os sistemas estejam sempre sincronizados até o momento do corte final (cutover).
+O AWS Application Migration Service (AWS MGN) é um serviço gerenciado que facilita a migração de servidores, aplicativos e bases de dados para a AWS, em geral resultando em cargas de trabalho executadas em [[AWS EC2|EC2]] na [[AWS VPC|VPC]]. Ele permite realizar migrações "lift-and-shift" (migrar o ambiente como está) ao replicar continuamente dados dos servidores de origem para a AWS, minimizando o tempo de inatividade e garantindo que os sistemas estejam sempre sincronizados até o momento do corte final (cutover).
 
 ## Como o AWS Application Migration Service funciona?
 

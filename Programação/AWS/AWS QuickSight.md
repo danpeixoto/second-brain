@@ -1,4 +1,4 @@
-**Amazon QuickSight** é um serviço de inteligência de negócios (BI) baseado na nuvem que permite a visualização e análise de dados de maneira rápida e fácil. Ele foi projetado para ajudar as empresas a obter insights a partir de seus dados, criando painéis interativos e relatórios visuais. Aqui estão alguns dos principais recursos e benefícios do Amazon QuickSight:
+**Amazon QuickSight** é um serviço de inteligência de negócios (BI) baseado na nuvem que permite a visualização e análise de dados de maneira rápida e fácil, com fontes comuns como **[[Guia AWS - Amazon S3 (Simple Storage Service)|S3]]**, **[[Guia AWS - Bancos de Dados na AWS|RDS/Redshift]]** e resultados de **[[AWS Athena|Athena]]**. Aqui estão alguns dos principais recursos e benefícios do Amazon QuickSight:
 
 ### Principais Recursos do Amazon QuickSight
 

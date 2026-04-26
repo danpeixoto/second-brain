@@ -1,4 +1,4 @@
-**AWS SQS** é um serviço de fila que permite desacoplar e escalar componentes de sistemas distribuídos. É ideal para transmitir mensagens entre diferentes serviços de forma assíncrona.
+**AWS SQS** é um serviço de fila que permite desacoplar e escalar componentes de sistemas distribuídos, muitas vezes conectada a publicadores em **[[AWS SNS|SNS]]** e *workers* em **[[AWS Lambda|Lambda]]**; leia **[[Diferença entre SQS e SNS|SQS vs SNS]]** para escolher o padrão.
 
 - **Tipos de fila**:
   - **Standard Queue**: Garante entrega de mensagens com alta taxa de transferência, mas não garante ordem e pode haver mensagens duplicadas.

@@ -1,4 +1,4 @@
-O **AWS Data Exchange** é um serviço que facilita a descoberta, assinatura e uso de dados de terceiros na nuvem da AWS. Ele conecta compradores e fornecedores de dados, permitindo que empresas e desenvolvedores acessem dados de alta qualidade para melhorar suas análises, modelos de aprendizado de máquina e decisões comerciais.
+O **AWS Data Exchange** é um serviço que facilita a descoberta, assinatura e uso de dados de terceiros na nuvem da AWS, muitas vezes consumidos em análise no [[AWS QuickSight|QuickSight]] ou em pipelines de ML com [[AWS SageMaker|SageMaker]] e armazenamento em [[Guia AWS - Amazon S3 (Simple Storage Service)|S3]]. Ele conecta compradores e fornecedores de dados, permitindo que empresas e desenvolvedores acessem dados de alta qualidade para melhorar suas análises, modelos de aprendizado de máquina e decisões comerciais.
 
 ### Principais Funcionalidades do AWS Data Exchange
 

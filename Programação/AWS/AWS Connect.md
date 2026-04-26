@@ -1,4 +1,4 @@
-O AWS Connect é um serviço de contact center na nuvem oferecido pela Amazon Web Services, que permite que empresas configurem e gerenciem um contact center virtual sem a necessidade de infraestrutura física. Ele foi criado para ajudar empresas a fornecerem atendimento ao cliente de maneira eficiente e escalável, aproveitando a flexibilidade e a tecnologia da nuvem. Abaixo estão as principais características e casos de uso do AWS Connect:
+O AWS Connect é um serviço de contact center na nuvem oferecido pela Amazon Web Services, que permite que empresas configurem e gerenciem um contact center virtual sem a necessidade de infraestrutura física. Muitas implementações usam voz/fluxos com **[[AWS Lex|Amazon Lex]]** e [[AWS Polly|Polly]] em integrações com a nuvem. Ele foi criado para ajudar empresas a fornecerem atendimento ao cliente de maneira eficiente e escalável, aproveitando a flexibilidade e a tecnologia da nuvem. Abaixo estão as principais características e casos de uso do AWS Connect:
 
 ### Principais Características do AWS Connect
 

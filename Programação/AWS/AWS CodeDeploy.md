@@ -1,4 +1,4 @@
-**AWS CodeDeploy** é um serviço de implantação totalmente gerenciado que automatiza o processo de implantação de aplicativos em várias instâncias de computação, como Amazon EC2, servidores locais ou no AWS Lambda. Ele permite que as equipes de desenvolvimento e operações realizem atualizações de software de maneira rápida, segura e confiável.
+**AWS CodeDeploy** é um serviço de implantação totalmente gerenciado que automatiza o processo de implantação de aplicativos em várias instâncias de computação, como [[AWS EC2|Amazon EC2]], servidores locais ou no [[AWS Lambda|AWS Lambda]] (e em alguns padrões, ambientes de contêiner com [[AWS ECS|ECS]]). Ele permite que as equipes de desenvolvimento e operações realizem atualizações de software de maneira rápida, segura e confiável.
 
 ### Principais Recursos do AWS CodeDeploy
 

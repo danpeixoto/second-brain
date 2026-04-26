@@ -1,4 +1,4 @@
-O **AWS Certificate Manager (ACM)** é um serviço da AWS que facilita a criação, gerenciamento e implantação de certificados SSL/TLS para proteger conexões de rede e sites na AWS. Com ele, você pode emitir certificados públicos e privados de forma gratuita (para certificados públicos), além de configurar e renovar automaticamente esses certificados em seus recursos da AWS, como Load Balancers, CloudFront e APIs no API Gateway.
+O **AWS Certificate Manager (ACM)** é um serviço da AWS que facilita a criação, gerenciamento e implantação de certificados SSL/TLS para proteger conexões de rede e sites na AWS. Com ele, você pode emitir certificados públicos e privados de forma gratuita (para certificados públicos), além de configurar e renovar automaticamente esses certificados em seus recursos da AWS, como Load Balancers, CloudFront e APIs no [[AWS API Gateway|API Gateway]] (veja também o [[Guia AWS - Conceitos de Escalabilidade, Elasticidade, Disponibilidade, Auto Scaling, ELB e ALB|guia de ELB/ALB e Auto Scaling]]).
 
 ### Principais Funcionalidades do AWS Certificate Manager
 

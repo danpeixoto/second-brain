@@ -1,4 +1,4 @@
-**AWS CodePipeline** é um serviço de entrega contínua que ajuda a automatizar o processo de compilação, teste e implantação de aplicativos em ambientes da AWS. Ele permite que as equipes de desenvolvimento entreguem software de maneira mais rápida e eficiente, integrando várias etapas do ciclo de vida do desenvolvimento em um fluxo de trabalho coeso.
+**AWS CodePipeline** é um serviço de entrega contínua que ajuda a automatizar o processo de compilação, teste e implantação de aplicativos em ambientes da AWS, encadeando ações de [[AWS CodeBuild|CodeBuild]] e, na entrega, [[AWS CodeDeploy|CodeDeploy]] (ou outras estratégias de publicação). Ele permite que as equipes de desenvolvimento entreguem software de maneira mais rápida e eficiente, integrando várias etapas do ciclo de vida do desenvolvimento em um fluxo de trabalho coeso.
 
 ### Principais Recursos do AWS CodePipeline
 

@@ -2,6 +2,7 @@
 
 ### 1. **O que é EC2?**
 
+- **Recurso base em rede**: as instâncias rodam em [[AWS VPC|VPC]]; para DNS e tráfego, costuma interagir com **[[Guia AWS - Route 53|Route 53]]** e balanceadores (ver o [[Guia AWS - Conceitos de Escalabilidade, Elasticidade, Disponibilidade, Auto Scaling, ELB e ALB|guia de Auto Scaling, ELB e ALB]]).
 - **Serviço de computação escalável**: Permite aumentar ou diminuir a capacidade de acordo com a demanda.
 - **Instâncias Virtuais**: São servidores virtuais que você pode configurar de acordo com as necessidades.
 - **Alta Flexibilidade**: Controle total sobre as instâncias, como SO, armazenamento e networking.

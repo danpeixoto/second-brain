@@ -12,7 +12,7 @@
    - O Amplify permite que você hospede aplicações web estáticas e dinâmicas com um fluxo de implantação contínua. Você pode conectar repositórios Git e configurar implementações automáticas.
 
 4. **Backend como Serviço (BaaS)**:
-   - Com o Amplify, você pode configurar rapidamente um backend completo, incluindo autenticação (Amazon Cognito), APIs (AWS AppSync ou Amazon API Gateway), armazenamento de dados (Amazon DynamoDB ou Amazon S3) e funções sem servidor (AWS Lambda).
+   - Com o Amplify, você pode configurar rapidamente um backend completo, incluindo autenticação ([[AWS Cognito|Amazon Cognito]]), APIs (AWS AppSync ou [[AWS API Gateway|Amazon API Gateway]]), armazenamento de dados (Amazon DynamoDB ou [[Guia AWS - Amazon S3 (Simple Storage Service)|S3]]) e funções sem servidor ([[AWS Lambda|AWS Lambda]]).
 
 5. **Análise e Monitoramento**:
    - O Amplify integra-se com serviços de análise da AWS, permitindo que você colete dados de uso e desempenho de sua aplicação. Isso ajuda a tomar decisões informadas sobre melhorias e otimizações.

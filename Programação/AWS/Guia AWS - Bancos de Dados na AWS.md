@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-A AWS oferece uma variedade de serviços de banco de dados que atendem a diferentes casos de uso, desde bancos de dados relacionais tradicionais até bancos de dados NoSQL e de propósito específico. Cada serviço é gerenciado, o que significa que a AWS cuida de tarefas como provisionamento, manutenção, backup e recuperação.
+A AWS oferece uma variedade de serviços de banco de dados que atendem a diferentes casos de uso, desde bancos de dados relacionais tradicionais até bancos de dados NoSQL e de propósito específico. Cada serviço é gerenciado, o que significa que a AWS cuida de tarefas como provisionamento, manutenção, backup e recuperação. Migração com **[[AWS Database Migration Service (DMS)|DMS]]**, *warehousing* com **[[AWS Redshift|Redshift]]** e *lake* com dados em **[[Guia AWS - Amazon S3 (Simple Storage Service)|S3]]** são peças comuns nesse enredo.
 
 ## 2. Amazon RDS (Relational Database Service)
 

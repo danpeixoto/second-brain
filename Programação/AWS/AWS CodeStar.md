@@ -1,4 +1,4 @@
-**AWS CodeStar** é um serviço que facilita o desenvolvimento, a construção e a entrega de aplicativos na AWS, oferecendo uma interface de gerenciamento unificada. Ele permite que as equipes criem e gerenciem rapidamente projetos de software usando práticas de DevOps, proporcionando uma experiência simplificada desde o planejamento até a implantação.
+**AWS CodeStar** é um serviço que facilita o desenvolvimento, a construção e a entrega de aplicativos na AWS, oferecendo uma interface de gerenciamento unificada, tipicamente integrando [[AWS CodeCommit|CodeCommit]], [[AWS CodeBuild|CodeBuild]], [[AWS CodePipeline|CodePipeline]] e [[AWS CodeDeploy|CodeDeploy]]. Ele permite que as equipes criem e gerenciem rapidamente projetos de software usando práticas de DevOps, proporcionando uma experiência simplificada desde o planejamento até a implantação.
 
 ### Principais Recursos do AWS CodeStar
 

@@ -1,6 +1,6 @@
 # AWS Lex
 
-AWS Lex é um serviço de chatbot que facilita a criação de interfaces de conversa usando voz e texto. Ele combina tecnologia de reconhecimento de fala e processamento de linguagem natural (NLP) para permitir que desenvolvedores criem aplicativos conversacionais de forma rápida e eficiente.
+AWS Lex é um serviço de chatbot que facilita a criação de interfaces de conversa usando voz e texto, em fluxos muito usados com **[[AWS Polly|Polly]]** (TTS) e em contact centers com **[[AWS Connect|Connect]]**; a lógica costuma chamar **[[AWS Lambda|Lambda]]**.
 
 ## Características principais
 - **Reconhecimento de fala e texto**: Lex permite que os usuários interajam com aplicativos por meio de comandos de voz ou texto, tornando a experiência do usuário mais intuitiva.

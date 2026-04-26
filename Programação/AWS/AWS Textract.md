@@ -1,4 +1,4 @@
-**AWS Textract** é um serviço gerenciado da AWS que usa aprendizado de máquina para extrair texto, tabelas e dados de formulários de documentos digitais de forma automática. É projetado para transformar documentos em papel e PDFs em dados utilizáveis, facilitando o acesso e a análise de informações contidas nesses documentos. Aqui estão os principais aspectos e funcionalidades do AWS Textract:
+**AWS Textract** é um serviço gerenciado da AWS que usa aprendizado de máquina para extrair texto, tabelas e dados de formulários de documentos digitais de forma automática, geralmente com entradas em **[[Guia AWS - Amazon S3 (Simple Storage Service)|S3]]**; para *OCR* de cena em imagem, compare **[[AWS Rekognition|Rekognition]]** e, para *NLP* sobre texto, **[[AWS Comprehend|Comprehend]]**. Aqui estão os principais aspectos e funcionalidades do AWS Textract:
 
 ### Principais Funcionalidades
 

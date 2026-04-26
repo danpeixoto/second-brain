@@ -1,4 +1,4 @@
-**Amazon EMR (Elastic MapReduce)** é um serviço gerenciado que facilita a execução de frameworks de processamento de dados em larga escala, como Apache Hadoop, Apache Spark, Apache HBase, Apache Flink e Presto. O EMR permite que os usuários processem grandes quantidades de dados de forma rápida e eficiente, reduzindo a complexidade e o custo de executar um cluster de processamento de dados.
+**Amazon EMR (Elastic MapReduce)** é um serviço gerenciado que facilita a execução de frameworks de processamento de dados em larga escala, como Apache Hadoop, Apache Spark, Apache HBase, Apache Flink e Presto, em nós geralmente baseados em [[AWS EC2|EC2]] e com origem/destino de dados em **[[Guia AWS - Amazon S3 (Simple Storage Service)|S3]]** ou [[AWS Kinesis|Kinesis]]. O EMR permite que os usuários processem grandes quantidades de dados de forma rápida e eficiente, reduzindo a complexidade e o custo de executar um cluster de processamento de dados.
 
 ### Principais Funcionalidades do Amazon EMR
 

@@ -1,4 +1,4 @@
-Na AWS, os níveis de suporte (support tiers) oferecem diferentes tipos de suporte e serviços para atender às necessidades de empresas de diferentes tamanhos e complexidades. Aqui estão as principais diferenças entre os tiers de suporte da AWS:
+Na AWS, os níveis de suporte (support tiers) oferecem diferentes tipos de suporte e serviços para atender às necessidades de empresas de diferentes tamanhos e complexidades, incluindo o acesso ampliado ao **[[AWS Trusted Advisor|Trusted Advisor]]**; para o catálogo de exames, veja **[[Certificação AWS Certified Cloud Practitioner|certificação Cloud Practitioner]]**. Aqui estão as principais diferenças entre os tiers de suporte da AWS:
 
 ### 1. **Basic Support**
 

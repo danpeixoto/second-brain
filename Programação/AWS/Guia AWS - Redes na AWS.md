@@ -1,6 +1,6 @@
 ## 1. Amazon VPC (Virtual Private Cloud)
 
-A **Amazon VPC** permite que você crie uma rede virtual privada dentro da AWS, proporcionando total controle sobre o ambiente de rede, incluindo seleção de intervalos de IP, configuração de sub-redes, tabelas de rotas e gateways.
+A **[[AWS VPC|Amazon VPC (Virtual Private Cloud)]]** permite que você crie uma rede virtual privada dentro da AWS, proporcionando total controle sobre o ambiente de rede, incluindo seleção de intervalos de IP, configuração de sub-redes, tabelas de rotas e gateways, em conjunto com resolução de nomes no **[[Guia AWS - Route 53|Route 53]]** e conexão híbrida com **[[AWS Direct Connect|Direct Connect]]** quando aplicável.
 
 ### Principais características
 - **Isolamento:** Sua VPC é logicamente isolada de outras VPCs e do restante da AWS.

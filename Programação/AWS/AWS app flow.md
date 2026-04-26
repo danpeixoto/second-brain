@@ -1,4 +1,4 @@
-**Amazon AppFlow** é um serviço gerenciado da AWS que permite a transferência de dados entre diferentes aplicações SaaS (Software as a Service) e serviços da AWS. O AppFlow facilita a movimentação de dados de forma segura e escalável, sem a necessidade de escrever código complexo para integração.
+**Amazon AppFlow** é um serviço gerenciado da AWS que permite a transferência de dados entre diferentes aplicações SaaS (Software as a Service) e serviços da AWS (por exemplo, destinos como [[Guia AWS - Amazon S3 (Simple Storage Service)|S3]] ou [[AWS Redshift|Amazon Redshift]]). O AppFlow facilita a movimentação de dados de forma segura e escalável, sem a necessidade de escrever código complexo para integração.
 
 ### Principais Características do Amazon AppFlow
 

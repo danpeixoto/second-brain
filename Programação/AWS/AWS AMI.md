@@ -1,4 +1,4 @@
-**Amazon AMI (Amazon Machine Image)** é um recurso da Amazon Web Services (AWS) que fornece uma imagem de sistema pré-configurada para iniciar instâncias do Amazon EC2 (Elastic Compute Cloud). As AMIs contêm todas as informações necessárias para inicializar uma instância, incluindo o sistema operacional, software, configurações e dados.
+**Amazon AMI (Amazon Machine Image)** é um recurso da Amazon Web Services (AWS) que fornece uma imagem de sistema pré-configurada para iniciar instâncias do [[AWS EC2|EC2 (Elastic Compute Cloud)]]. As AMIs contêm todas as informações necessárias para inicializar uma instância, incluindo o sistema operacional, software, configurações e dados.
 
 ### Principais Características do Amazon AMI
 

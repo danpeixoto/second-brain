@@ -1,6 +1,6 @@
 # AWS SageMaker
 
-AWS SageMaker é um serviço gerenciado que facilita a construção, treinamento e implantação de modelos de machine learning (ML) em grande escala. Ele oferece uma variedade de ferramentas e recursos que permitem que desenvolvedores e cientistas de dados criem e implantem modelos de forma rápida e eficiente.
+AWS SageMaker é um serviço gerenciado que facilita a construção, treinamento e implantação de modelos de machine learning (ML) em grande escala, com dados e artefatos em **[[Guia AWS - Amazon S3 (Simple Storage Service)|S3]]** e computação alinhada a **[[AWS EC2|EC2]]** (notebooks e treino).
 
 ## Características principais
 - **Ambientes de desenvolvimento integrados**: SageMaker fornece notebooks Jupyter pré-configurados, permitindo que os usuários desenvolvam e testem modelos em um ambiente familiar e fácil de usar.

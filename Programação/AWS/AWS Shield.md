@@ -1,4 +1,4 @@
-O **AWS Shield** é um serviço de proteção contra ataques de **Distributed Denial of Service (DDoS)** que visa proteger aplicativos e infraestruturas hospedadas na AWS. Ele oferece duas camadas de proteção – **AWS Shield Standard** e **AWS Shield Advanced** – que ajudam a garantir a continuidade e disponibilidade dos serviços mesmo durante ataques DDoS.
+O **AWS Shield** é um serviço de proteção contra ataques de **Distributed Denial of Service (DDoS)** que visa proteger aplicativos e infraestruturas hospedadas na AWS, muitas vezes usado com **[[AWS WAF|WAF]]** (camada 7) e padrões de publicação segura (por exemplo, por trás de **[[AWS API Gateway|API Gateway]]** ou **[[Guia AWS - Conceitos de Escalabilidade, Elasticidade, Disponibilidade, Auto Scaling, ELB e ALB|ALB]]**). Ele oferece duas camadas de proteção – **AWS Shield Standard** e **AWS Shield Advanced** – que ajudam a garantir a continuidade e disponibilidade dos serviços mesmo durante ataques DDoS.
 
 ### Principais Características do AWS Shield
 

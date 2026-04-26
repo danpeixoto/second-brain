@@ -1,4 +1,4 @@
-O **AWS Web Application Firewall (WAF)** é um serviço gerenciado da Amazon Web Services que protege aplicações web contra uma variedade de ameaças e vulnerabilidades comuns na camada de aplicação. O WAF permite que você defina regras personalizadas para filtrar o tráfego HTTP(S) e controlar o acesso aos seus aplicativos com base em condições específicas, ajudando a prevenir ataques como injeções SQL, cross-site scripting (XSS) e DDoS.
+O **AWS Web Application Firewall (WAF)** é um serviço gerenciado da Amazon Web Services que protege aplicações web na frente de **[[AWS API Gateway|API Gateway]]**, *load balancers* (ver o [[Guia AWS - Conceitos de Escalabilidade, Elasticidade, Disponibilidade, Auto Scaling, ELB e ALB|ALB/ELB]]) e frequentemente com **[[AWS Shield|Shield]]** (DDoS) na mesma borda. O WAF permite que você defina regras personalizadas para filtrar o tráfego HTTP(S) e controlar o acesso aos seus aplicativos com base em condições específicas, ajudando a prevenir ataques como injeções SQL, cross-site scripting (XSS) e DDoS.
 
 ### Principais Funcionalidades do AWS WAF
 

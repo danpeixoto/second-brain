@@ -1,5 +1,5 @@
 # AWS Trusted Advisor
-O AWS Trusted Advisor é um serviço que fornece recomendações personalizadas para otimizar seu ambiente AWS de acordo com as melhores práticas. Ele verifica seu ambiente em relação a categorias como custo, desempenho, segurança, tolerância a falhas e limites de serviço, e oferece recomendações para melhorar seu uso da AWS.
+O AWS Trusted Advisor é um serviço que fornece recomendações personalizadas para otimizar seu ambiente AWS de acordo com as melhores práticas. Ele verifica seu ambiente em relação a categorias como custo, desempenho, segurança, tolerância a falhas e limites de serviço, e oferece recomendações alinhadas ao **[[AWS Well-Architected Framework|Well-Architected Framework]]**; a profundidade das verificações varia com o *tier* (veja **[[Tipos de suporte|tipos de suporte AWS]]**).
 
 ## Principais características
 - Recomendações de melhores práticas em cinco categorias: custo, desempenho, segurança, tolerância a falhas e limites de serviço.

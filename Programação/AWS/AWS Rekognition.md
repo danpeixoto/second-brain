@@ -1,6 +1,6 @@
 # AWS Rekognition
 
-AWS Rekognition é um serviço de análise de imagens e vídeos que utiliza inteligência artificial (IA) para identificar objetos, pessoas, texto, cenas e atividades em conteúdos visuais. Ele permite que desenvolvedores integrem facilmente capacidades de reconhecimento de imagem e vídeo em suas aplicações.
+AWS Rekognition é um serviço de análise de imagens e vídeos que utiliza inteligência artificial (IA) para identificar objetos, pessoas, texto, cenas e atividades em conteúdos visuais, geralmente referenciando mídia em **[[Guia AWS - Amazon S3 (Simple Storage Service)|S3]]**; para texto em documento escaneado, veja a **[[AWS Textract|Textract]]**.
 
 ## Características principais
 - **Reconhecimento de objetos e cenas**: O Rekognition pode identificar uma ampla gama de objetos, como veículos, animais e locais, além de cenas, como praias ou montanhas.

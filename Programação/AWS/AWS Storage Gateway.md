@@ -1,4 +1,4 @@
-**AWS Storage Gateway** é um serviço que conecta ambientes locais a armazenamento na nuvem da AWS. Ele facilita a integração entre aplicações locais e o armazenamento na nuvem, permitindo que você utilize os recursos de armazenamento da AWS sem precisar mover todos os seus dados para a nuvem de uma vez. O serviço é especialmente útil para empresas que buscam migrar para a nuvem ou que desejam uma solução híbrida de armazenamento.
+**AWS Storage Gateway** é um serviço que conecta ambientes locais a armazenamento na nuvem da AWS, tipicamente expondo o **[[Guia AWS - Amazon S3 (Simple Storage Service)|S3]]** (ou arquivos em cache) a partir do data center, em fluxos irmãos a **[[AWS DataSync|DataSync]]** e *link* dedicado de **[[AWS Direct Connect|Direct Connect]]** quando a largura de banda exige. O serviço é especialmente útil para empresas que buscam migrar para a nuvem ou que desejam uma solução híbrida de armazenamento.
 
 ### Principais Funcionalidades do AWS Storage Gateway
 

@@ -1,6 +1,6 @@
 # AWS Translate
 
-AWS Translate é um serviço de tradução automática que utiliza inteligência artificial (IA) e aprendizado de máquina para traduzir texto em diferentes idiomas de forma rápida e precisa. Ele permite que desenvolvedores integrem capacidades de tradução em aplicações, websites e sistemas de gerenciamento de conteúdo.
+AWS Translate é um serviço de tradução automática que utiliza inteligência artificial (IA) e aprendizado de máquina para traduzir texto em diferentes idiomas de forma rápida e precisa, complementar à análise de sentimento/entidade em **[[AWS Comprehend|Comprehend]]** e a fluxos de voz com **[[AWS Polly|Polly]]** / **[[AWS Lex|Lex]]**.
 
 ## Características principais
 - **Tradução em tempo real**: AWS Translate oferece tradução instantânea de texto, permitindo que usuários interajam em vários idiomas sem barreiras linguísticas.

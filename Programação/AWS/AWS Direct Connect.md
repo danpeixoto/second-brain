@@ -1,4 +1,4 @@
-O AWS Direct Connect é um serviço da AWS que permite estabelecer uma conexão de rede privada e dedicada entre o seu data center, escritório ou ambiente on-premises e a nuvem da AWS. Essa conexão direta oferece vantagens significativas em termos de desempenho, segurança e confiabilidade, especialmente para empresas que transferem grandes volumes de dados para a AWS ou que necessitam de conexões mais seguras e estáveis em comparação com a Internet pública.
+O AWS Direct Connect é um serviço da AWS que permite estabelecer uma conexão de rede privada e dedicada entre o seu data center, escritório ou ambiente on-premises e a nuvem da AWS, estendendo de forma previsível a **[[Guia AWS - Redes na AWS|rede (VPC)]]** e a recursos em [[AWS EC2|EC2]]. Essa conexão direta oferece vantagens significativas em termos de desempenho, segurança e confiabilidade, especialmente para empresas que transferem grandes volumes de dados para a AWS ou que necessitam de conexões mais seguras e estáveis em comparação com a Internet pública.
 
 ### Principais Características do AWS Direct Connect
 

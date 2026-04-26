@@ -1,4 +1,4 @@
-AWS Outposts é um serviço de infraestrutura híbrida que permite que você execute a tecnologia da AWS no seu próprio data center ou em um ambiente de colocation. Com o AWS Outposts, é possível utilizar o mesmo hardware e software da AWS, garantindo uma experiência consistente entre a nuvem e o ambiente on-premises.
+AWS Outposts é um serviço de infraestrutura híbrida que permite que você execute a tecnologia da AWS no seu próprio data center ou em um ambiente de colocation, com a mesma API de recursos locais (por exemplo **[[AWS EC2|EC2]]** na borda) e ligação à nuvem via **[[AWS Direct Connect|Direct Connect]]** e **[[Guia AWS - Redes na AWS|VPC]]** estendida.
 
 ## Características principais
 - **Consistência híbrida**: AWS Outposts oferece uma experiência operacional unificada, permitindo o uso das mesmas APIs, ferramentas e serviços da AWS em nuvem e on-premises.

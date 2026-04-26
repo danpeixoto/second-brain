@@ -1,4 +1,4 @@
-O **AWS GuardDuty** é um serviço de detecção de ameaças em tempo real que fornece monitoramento contínuo para atividades maliciosas e comportamento não autorizado em suas contas e cargas de trabalho na AWS. Ele utiliza aprendizado de máquina, análise de comportamento e inteligência de ameaças para identificar e priorizar eventos de segurança.
+O **AWS GuardDuty** é um serviço de detecção de ameaças em tempo real que fornece monitoramento contínuo para atividades maliciosas e comportamento não autorizado em suas contas e cargas de trabalho na AWS, muitas vezes correlacionado a alertas e priorização no **[[AWS Security Hub|Security Hub]]** e a logs de **[[AWS CloudTrail|CloudTrail]]**. Ele utiliza aprendizado de máquina, análise de comportamento e inteligência de ameaças para identificar e priorizar eventos de segurança.
 
 ### Principais Funcionalidades do AWS GuardDuty
 

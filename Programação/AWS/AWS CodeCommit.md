@@ -1,4 +1,4 @@
-**AWS CodeCommit** é um serviço de controle de versão gerenciado que permite armazenar e gerenciar repositórios de código-fonte na nuvem. Ele oferece uma maneira segura e escalável de hospedar repositórios Git, facilitando a colaboração entre equipes de desenvolvimento.
+**AWS CodeCommit** é um serviço de controle de versão gerenciado que permite armazenar e gerenciar repositórios de código-fonte na nuvem, alimentando pipelines de [[AWS CodePipeline|CodePipeline]] e etapas de build em [[AWS CodeBuild|CodeBuild]]. Ele oferece uma maneira segura e escalável de hospedar repositórios Git, facilitando a colaboração entre equipes de desenvolvimento.
 
 ### Principais Recursos do AWS CodeCommit
 

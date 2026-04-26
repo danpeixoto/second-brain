@@ -1,4 +1,4 @@
-**AWS Batch** é um serviço gerenciado da Amazon Web Services (AWS) que facilita a execução de jobs em lote de forma escalável e eficiente. Ele permite que os usuários executem centenas ou milhares de jobs simultaneamente, alocando automaticamente os recursos de computação necessários e gerenciando a execução dos jobs.
+**AWS Batch** é um serviço gerenciado da Amazon Web Services (AWS) que facilita a execução de jobs em lote de forma escalável e eficiente, com integração natural a orquestradores como [[AWS ECS|ECS]] e recursos de computação como [[AWS EC2|EC2]]. Ele permite que os usuários executem centenas ou milhares de jobs simultaneamente, alocando automaticamente os recursos de computação necessários e gerenciando a execução dos jobs.
 
 ### Principais Funcionalidades do AWS Batch
 

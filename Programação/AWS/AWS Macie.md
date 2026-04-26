@@ -1,4 +1,4 @@
-**AWS Macie** é um serviço gerenciado de segurança e proteção de dados da Amazon Web Services que utiliza aprendizado de máquina para ajudar as organizações a identificar e proteger informações sensíveis armazenadas no Amazon S3 (Simple Storage Service). O Macie oferece visibilidade sobre os dados, ajudando a detectar, classificar e proteger informações sensíveis, como dados pessoais identificáveis (PII), dados de saúde, informações financeiras e mais.
+**AWS Macie** é um serviço gerenciado de segurança e proteção de dados da Amazon Web Services que utiliza aprendizado de máquina para ajudar as organizações a identificar e proteger informações sensíveis armazenadas no **[[Guia AWS - Amazon S3 (Simple Storage Service)|S3]]**, complementar a deteções de **[[AWS GuardDuty|GuardDuty]]** no mesmo ecossistema. O Macie oferece visibilidade sobre os dados, ajudando a detectar, classificar e proteger informações sensíveis, como dados pessoais identificáveis (PII), dados de saúde, informações financeiras e mais.
 
 ### Principais Funcionalidades do AWS Macie
 

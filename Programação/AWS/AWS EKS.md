@@ -2,7 +2,7 @@
 
 ## O que é o EKS?
 
-O Amazon Elastic Kubernetes Service (EKS) é um serviço gerenciado de Kubernetes da AWS que permite criar, gerenciar e escalar clusters de contêineres usando Kubernetes.
+O Amazon Elastic Kubernetes Service (EKS) é um serviço gerenciado de Kubernetes da AWS que permite criar, gerenciar e escalar clusters de contêineres usando Kubernetes, alternativa de orquestração a **[[AWS ECS|ECS]]** (veja a comparação em [[Diferença entre EKS e ECS|EKS vs ECS]]).
 
 ## Benefícios do EKS
 
