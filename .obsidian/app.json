@@ -1,0 +1,8 @@
+{
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "openBehavior": "new",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "newLinkFormat": "relative"
+}

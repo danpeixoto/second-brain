@@ -1,0 +1,3 @@
+- A Startup Enxuta - Eric Ries ou lean startup (aqui tem muita recomendação de livro)
+- Competition Demystified
+- Growth Hackers
